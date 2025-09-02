@@ -12,7 +12,7 @@
 
 <h2>🌐 Live Demo</h2>
 <p>
-  👉 <a href="https://kutluhangil.github.io/goit-focusframe-project/" target="_blank" rel="noopener">GitHub Pages (ekleyin)</a>
+  👉 <a href="https://kutluhangil.github.io/goit-focusframe-project/" target="_blank" rel="noopener">Focus Frame Linki</a>
 </p>
 
 <hr />
