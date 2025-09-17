@@ -6,7 +6,7 @@
   and pass HTML validation. A live version is published via <strong>GitHub Pages</strong>.
 </p>
 
-<p><strong>Live Demo:</strong> <a href="#" target="_blank" rel="noopener">Add your GitHub Pages link here</a></p>
+<p><strong>Live Demo:</strong> <a href="#" target="_blank" rel="noopener">[Add your GitHub Pages link here](https://kutluhangil.github.io/goit-markup-hw-01/)</a></p>
 
 <hr>
 
